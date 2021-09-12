@@ -2,7 +2,7 @@
 (c) IanDark
 
 Este bot é baseado no [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI).
-Portanto é altamente recomendável você utilizar as versões do Python recomendadas para a lib pyTelegramBotAPI.
+Portanto é altamente recomendável você utilizar as versões do Python para a lib pyTelegramBotAPI.
 
 ## Requisitos
  - Armazenamento de chave SSH no server linux a ser conectado.
